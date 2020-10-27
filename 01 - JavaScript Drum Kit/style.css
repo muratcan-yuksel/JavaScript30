@@ -49,3 +49,11 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  opacity: 70%;
+
+}
